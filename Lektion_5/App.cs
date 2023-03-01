@@ -54,10 +54,6 @@ namespace Lektion_5
                      Console.WriteLine($"{annon.Name} {annon.Price} {annon.Date}");
                   }
                 
-                while (true) 
-            {
-                Console.WriteLine("lollollollollollollollollollollollollollollollollollollollollollollollollollollollollollollollollollollol");
-            }
 
 
         }
