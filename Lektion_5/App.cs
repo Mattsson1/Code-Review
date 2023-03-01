@@ -50,6 +50,7 @@ namespace Lektion_5
 
                 foreach (var annon in annons.Bids)
                   {
+                    //borde stå console.WriteLine(annon); tycker jag :)
                      Console.WriteLine($"{annon.Name} {annon.Price} {annon.Date}");
                   }
                 
