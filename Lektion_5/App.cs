@@ -53,7 +53,14 @@ namespace Lektion_5
                      Console.WriteLine($"{annon.Name} {annon.Price} {annon.Date}");
                   }
                 
+<<<<<<< Updated upstream
 
+=======
+                while (true) 
+            {
+                Console.WriteLine("HejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHejHej");
+            }
+>>>>>>> Stashed changes
 
 
         }
